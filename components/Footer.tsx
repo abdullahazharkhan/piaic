@@ -19,6 +19,7 @@ const Logo = () => {
       <Image
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/PIAIC_Logo.svg/1200px-PIAIC_Logo.svg.png"
         width={100}
+        alt={"logo"}
       />
     </Link>
   );

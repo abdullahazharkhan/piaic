@@ -43,6 +43,7 @@ export default function Objective() {
               <Image
                 src="https://www.piaic.org/static/media/panacloudLogo.9b5ef574.svg"
                 w={150}
+                alt="panacloud"
               />
             </Link>
           </m.div>
@@ -55,6 +56,7 @@ export default function Objective() {
               <Image
                 src="https://www.piaic.org/static/media/saylaniLogo.c2a52d0a.png"
                 w={250}
+                alt="saylani"
               />
             </Link>
           </m.div>
