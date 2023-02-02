@@ -62,7 +62,7 @@ const Navbar = () => {
               >
                 <Button variant="ghost">How It Works</Button>
               </Link>
-              <Link href="#programs" _hover={{ textDecoration: "none" }}>
+              <Link href="/#programs" _hover={{ textDecoration: "none" }}>
                 <Button variant="ghost">Available Programs</Button>
               </Link>
               <Link href="/about" _hover={{ textDecoration: "none" }}>
